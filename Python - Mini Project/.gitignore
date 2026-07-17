@@ -1,0 +1,13 @@
+# Ignore everything by default
+*
+
+# Allow only the Python mini project files and folders
+!q1_result_analyzer.py/
+!q1_result_analyzer.py/main.py
+!q2_library_system.py/
+!q2_library_system.py/main.py
+!q3_shopping_cart.py/
+!q3_shopping_cart.py/main.py
+
+# Keep the ignore file itself
+!.gitignore
